@@ -23,6 +23,24 @@
         "id": "https://saracarl.github.io/comparison-test/her-kind/canvas-1/canvas",
         "type": "Canvas",
         "duration": 107.0,
+        "annotations": [
+          
+          {
+            "type": "AnnotationPage",
+            "id": "https://saracarl.github.io/comparison-test/annotations/her-kind-canvas-1-sara-ben-josie-octavia.json",
+            "label": {
+              "none": ["sara/ben/josie/octavia"]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://saracarl.github.io/comparison-test/annotations/her-kind-canvas-1-sara.json",
+            "label": {
+              "none": ["sara"]
+            }
+          }
+        ],
         "items": [
           {
             "id": "https://saracarl.github.io/comparison-test/her-kind/canvas-1/paintings",
