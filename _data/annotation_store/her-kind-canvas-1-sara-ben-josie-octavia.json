@@ -27,7 +27,14 @@
         }
       ],
       "target": {
-        "source": "https://saracarl.github.io/comparison-test/her-kind/canvas-1/canvas",
+        "source": {
+          "id": "https://saracarl.github.io/comparison-test/her-kind/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": {
+            "id": "https://saracarl.github.io/comparison-test/her-kind/manifest.json",
+            "type": "Manifest"
+          }
+        },
         "selector": {
           "type": "RangeSelector",
           "t": "5.0,30.0"
@@ -63,7 +70,14 @@
         }
       ],
       "target": {
-        "source": "https://saracarl.github.io/comparison-test/her-kind/canvas-1/canvas",
+        "source": {
+          "id": "https://saracarl.github.io/comparison-test/her-kind/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": {
+            "id": "https://saracarl.github.io/comparison-test/her-kind/manifest.json",
+            "type": "Manifest"
+          }
+        },
         "selector": {
           "type": "RangeSelector",
           "t": "10.0,15.0"
@@ -93,7 +107,14 @@
         }
       ],
       "target": {
-        "source": "https://saracarl.github.io/comparison-test/her-kind/canvas-1/canvas",
+        "source": {
+          "id": "https://saracarl.github.io/comparison-test/her-kind/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": {
+            "id": "https://saracarl.github.io/comparison-test/her-kind/manifest.json",
+            "type": "Manifest"
+          }
+        },
         "selector": {
           "type": "RangeSelector",
           "t": "21.0,22.0"
